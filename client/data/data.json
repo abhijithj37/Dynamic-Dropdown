@@ -1,0 +1,9 @@
+{
+    "tables": [
+      {"name": "Countries", "endpoint": "/api/country"},
+      {"name": "States", "endpoint": "/api/state"},
+      {"name": "Cities", "endpoint": "/api/city"},
+      {"name": "Blocks", "endpoint": "/api/block"},
+      {"name": "Villages", "endpoint": "/api/village"}
+    ]
+  }
